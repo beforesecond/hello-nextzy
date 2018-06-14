@@ -1,0 +1,24 @@
+{
+    "name": "hello-nextzy", 
+    "version": "1.0.0", 
+    "description": "Hello Nextzy to publish a node package to npmjs.com", 
+    "main": "src/hello-nextzy.js", 
+    "scripts": { 
+    },
+    "repository": { 
+      "type": "git",
+      "url": "git@github.com:beforesecond/hello-nextzy.git"
+    },
+    "keywords": [
+      "npm",
+      "Hello Nextzy"
+    ],
+    "author": "BeforeSecond",
+    "license": "MIT", 
+    "bugs": { 
+      "url": "https://github.com/beforesecond/hello-nextzy/issuess"
+    },
+    "homepage": "https://github.com/beforesecond/hello-nextzy/blob/master/README.md", 
+    "devDependencies": { 
+    }
+  }
