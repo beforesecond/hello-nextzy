@@ -1,3 +1,3 @@
-export const HelloNextzy=()=>{
-  return  'Hello Nextzy'
+module.exports = (value) => {
+  return value
 }
